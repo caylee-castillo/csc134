@@ -41,7 +41,7 @@ int main() {
     // Give the result
     cout << "For " << amount_purchased << " " << product << endl;
     cout << "That will be $" << total_cost << endl;
-    cout << "Thank you for shopping with us, " << full_name << "!" << endl;
+    cout << "Thank you for shopping with us " << full_name << "!" << endl;
 
 
     return 0;
