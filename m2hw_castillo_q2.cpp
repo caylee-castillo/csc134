@@ -1,8 +1,7 @@
-/*
-CSC 134
-M2LAB - Volume calcution for crate company
+/* CSC 134 
+M2HW - Gold
 Caylee Castillo
-09/26/2026
+10/04/2026
 */
 
 #include <iostream>
@@ -12,8 +11,8 @@ using namespace std;
 int main ()
 {
     //Constants for cost and amount charged
-    const double COST_PER_CUBIC_FOOT = 0.28;
-    const double CHARGE_PER_CUBIC_FOOT = 0.5;
+    const double COST_PER_CUBIC_FOOT = 0.3;
+    const double CHARGE_PER_CUBIC_FOOT = 0.52;
 
     // variables
     double length, // the crates length
