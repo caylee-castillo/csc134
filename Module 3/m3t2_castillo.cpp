@@ -1,5 +1,5 @@
 // CSC 134
-// M3 Random Numbers Example
+// M3T2
 // Caylee Castillo
 // 10/06/2026
 // Start with dice rolls
