@@ -24,9 +24,8 @@ int main() {
     cout << "What do you do?" << endl;
     cout << "1. Inspect the strange glowing tombstone near the entrance." << endl;
     cout << "2. Leap over the iron fence to reach Jack Skellington." << endl;
-    cout << "Enter 1 or 2: ";
+    cout << "Enter 1 or 2: " << endl;
     cin >> choice1;
-    cout << endl;
 
     // First Decision
     if (choice1 == 1) {
@@ -43,9 +42,8 @@ int main() {
         cout << "What do you do next?" << endl;
         cout << "1. Use your Keyblade to launch the pumpkin bomb at the Heartless." << endl;
         cout << "2. Try to pick up the pumpkin bomb with your bare hands." << endl;
-        cout << "Enter 1 or 2: ";
+        cout << "Enter 1 or 2: " << endl;
         cin >> choice2;
-        cout << endl;
 
         // Second Decision
         if (choice2 == 1) {
